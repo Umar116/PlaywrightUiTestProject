@@ -1,10 +1,17 @@
-Python Playwright Examples
+# **Python Playwright Examples**
 
-This repo is used to demonstrate various testing scenarios with https://playwright.dev/python/
+This repo is used to demonstrate various testing scenarios with [https://playwright.dev/python/](playwright)
 
-And reporting tests by Python Allure https://allurereport.org/docs/pytest/
+Reporting tests by Python Allure [https://allurereport.org/docs/pytest/](allure)
+_____________________________________________________________________________________
+##### Run tests : python3 -m pytest --alluredir allure-results
 
-Run tests : python3 -m pytest --alluredir allure-results
-Get test reports : allure serve allure-results
+#### Generate test reports : allure serve allure-results
+
+##### Using libraries:
+* -Pytest
+* -Allure
+* -Playwright
+* -Faker
 
 
